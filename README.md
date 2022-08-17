@@ -27,7 +27,7 @@ Run the command below from the Terminal:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/degisew/portfolio/issues).
+Feel free to check the [issues page](https://github.com/degisew/Set-up-project-with-webpack/issues).
 
 ## Show your support
 
